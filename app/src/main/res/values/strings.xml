@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Descifrar Palabras</string>
+    <string name="puntos">Puntos</string>
+    <string name="puntos_valor">%d</string>
+    <string name="ordena_la_palabra">Ordena la palabra!</string>
+    <string name="contador_palabra">%d\n\nde\n\n%d</string>
+    <string name="paso">PASO</string>
+    <string name="confirmar">confirmar</string>
+    <string name="vuelva_intentarlo">Oops, vuelva a intentarlo</string>
+    <string name="finish">Buen intento!</string>
+    <string name="puntaje">Puntaje: %d</string>
+    <string name="salir">Salir</string>
+    <string name="intentar_nuevo">Intentalo de nuevo :)</string>
+    <string name="Firma">Desarrollado por - IsraelDev</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
